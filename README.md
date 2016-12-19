@@ -43,6 +43,7 @@ For this project, there are core technical requirements and flex technical requi
 * **Model Relationship** - Create a one-to-many or many-to-many relationship between two models using either embedded or referenced data.
 * **Sessions** - Research sessions and use them to track a visitor.  As a much larger challenge, you can use sessions to enable authentication (user sign up, log in, and log out).  Note: This option requires significant independent research, and doing authentication  is especially difficult.  There are some [resources from past WDI cohorts](https://github.com/sf-wdi-33/express-simple-auth), but do not underestimate this challenge.
 
+<!-- 
 ## BONUS IDEAS  
 If you want to push yourself and learn something new, optionally consider doing some of the following with your app, but *please talk to an instructor* beforehand:
 
@@ -66,7 +67,7 @@ Once your project has been approved, one member of your group should create a **
 
 We recommend also setting up a [Trello](https://trello.com) board to track your progress, communicate with each other, and keep focused on the most important goals.
 
-
+-->
 
 ## TEAMWORK EXPECTATIONS
 
@@ -74,13 +75,13 @@ Every team member shares the responsibility of creating a product that reflects 
 
 Communicate,communicate, communicate! Discuss roles, expectations, and timetables before you start coding. Figure out how you want to communicate about the project when you aren't physically with your team. A few ideas: Trello is a great tool for tracking what you're each working on, and Slack can help you communicate when you're not together.
 
-
 ## TIMELINE
 
 > DO NOT START CODING UNTIL YOU HAVE GONE OVER YOUR PROJECT PLAN WITH AN INSTRUCTOR.
 
 * **Tuesday, December 18th** - Groups assigned and initial planning.
 
+<!--
 * **BEFORE Wednesday, December 19th @ 12:00pm** - Present your app plan to an instructor to go over your [planning deliverables](#planning-deliverables).
 
 * **Tuesday, January 3rd** - Final project workshop day.
@@ -103,3 +104,4 @@ Each of the criteria above will be evaluated as one of **incomplete**, **does no
 
 
 ###HAPPY CODING :)
+-->
