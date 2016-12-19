@@ -7,7 +7,7 @@ Apply the skills you've learned by building a full-stack web application from th
 You will be working in pairs for this project.  Show us what you've got!
 
 
-##COMPLETED PROJECT DELIVERABLES
+## COMPLETED PROJECT DELIVERABLES
 
 * Completion of the **technical requirements**
 * On your personal site:
@@ -22,7 +22,7 @@ For this project, there are core technical requirements and flex technical requi
 ### Core Technical Requirements
 
 **Your app should have all of the following:**
-* **Express API** - Build an Express server that has both HTML and JSON endpoints.
+* **Express API** - Build an Express server that has both HTML and JSON endpoints. 
 * **RESTful Routes** - Design your CRUD routes using the [RESTful routing](https://github.com/sf-wdi-31/mongoose-associations#restful-routing) convention.
 * **AJAX** - Leverage AJAX to make requests asynchronously.
 * **jQuery** - Use jQuery to add interactivity and display data on the client side.  
@@ -37,11 +37,11 @@ For this project, there are core technical requirements and flex technical requi
 ### Flex Technical Requirements
 
 **Your app should have 2 of the 5 following features:**
-* **External API** - Use an external API to integrate rich data into your app.
-* **Data Validation** - On the client side, give users a visible error message if they try to submit blank forms (or other validation failures), explaining why they weren't allowed to submit.  In your database, use mongoose's validations for at least one attribute for each of your schemas (see <a href="http://mongoosejs.com/docs/validation.html">mongoose validation docs</a>). You can meet this requirement with just mongoose's built-in validations, but you could also take it further with custom validations.
+* **External API** - Use an external API to integrate rich data into your app.  If you need to make API requests from your Node.js server, we recommend using a package like [request](https://github.com/request/request) to make request syntax simpler. 
+* **Data Validation** - On the client side, give users a visible error message if they try to submit blank forms (or other validation failures), explaining why they weren't allowed to submit.  Also, in your database, use mongoose's validations for at least one attribute for each of your schemas (see <a href="http://mongoosejs.com/docs/validation.html">mongoose validation docs</a>). You can meet this requirement with just mongoose's built-in validations, but you could also take it further with custom validations.
 * **Bootstrap** - Use Twitter Bootstrap, Foundation, Skeleton, or another CSS framework throughout your site to create a unified baseline style.
 * **Model Relationship** - Create a one-to-many or many-to-many relationship between two models using either embedded or referenced data.
-* **Sessions** - Research sessions and use them to track a visitor.  As a much larger challenge, you can use sessions to enable authentication (user sign up, log in, and log out). Note: This option requires significant independent research, and doing authentication correctly is difficult.
+* **Sessions** - Research sessions and use them to track a visitor.  As a much larger challenge, you can use sessions to enable authentication (user sign up, log in, and log out).  Note: This option requires significant independent research, and doing authentication  is especially difficult.  There are some [resources from past WDI cohorts](https://github.com/sf-wdi-33/express-simple-auth), but do not underestimate this challenge. 
 
 ## BONUS IDEAS  
 If you want to push yourself and learn something new, optionally consider doing some of the following with your app, but *please talk to an instructor* beforehand:
@@ -63,7 +63,6 @@ Now that you know the full requirements for your app, carry out more detailed pl
 * **Database** -  List the schemas you'll need, and list the attributes for each.  Indicate any associations (relationships) you plan to have in your data.
 *  **Feasibility Check** - Research any new tools or APIs. For example, if you're using an external JSON API, is all the information you want included in the response? Do you need to sign up and wait for approval to use the API?  Are there API keys you should keep hidden?
 
-
 Once your project has been approved, one member of your group should create a **GitHub Repo** for your project and [add your partner as a  collaborator](https://help.github.com/articles/adding-collaborators-to-a-personal-repository/).
 
 We recommend also setting up a [Trello](https://trello.com) board to track your progress, communicate with each other, and keep focused on the most important goals.
@@ -77,21 +76,23 @@ Every team member shares the responsibility of creating a product that reflects 
 Communicate,communicate, communicate! Discuss roles, expectations, and timetables before you start coding. Figure out how you want to communicate about the project when you aren't physically with your team. A few ideas: Trello is a great tool for tracking what you're each working on, and Slack can help you communicate when you're not together.
 
 
-
 ## TIMELINE
 
 > DO NOT START CODING UNTIL YOU HAVE GONE OVER YOUR PROJECT PLAN WITH AN INSTRUCTOR.
 
-* **Wednesday, September 7th** - Present your app plan to an instructor to go over your [planning deliverables](#planning-deliverables).
-* **Weekdays, September 8th-12th** - Technical interview prep at 9:00AM. Project work time for the rest of the day. Daily check-ins with your team's instructor.
-* **Tuesday, September 13th @ 1:15pm** - Project due and presentations!
+* **Tuesday, December 18th** - Groups assigned and initial planning.
 
-In addition, we suggest you have a feature freeze sometime on Monday, September 12th - meaning no new features! After a feature freeze, you can focus on re-deploying your code to Heroku, polishing existing features, writing your README.md, and planning your presentation.
+* **BEFORE Wednesday, December 19th @ 12:00pm** - Present your app plan to an instructor to go over your [planning deliverables](#planning-deliverables).
+
+* **Tuesday, January 3rd** - Final project workshop day.
+
+* **Wednesday, January 4th @ 9:00am** - Project due and presentations!
+
+In addition, we suggest you have a feature freeze sometime on Tuesday, January 3rd - meaning no new features! After a feature freeze, you can focus on re-deploying your code to Heroku, polishing existing features, finalizing your README.md, and planning your presentation.
 
 ## FEEDBACK
 
 **Your project will be evaluated based on the following criteria:**
-
 
 * **Project Workflow**: Did you complete the user stories, wireframes, and task tracking as specified above? Did you use source control as expected for the phase of the program you’re in (detailed above)?
 * **Technical Requirements**: Did you deliver a project that met all the technical requirements?
