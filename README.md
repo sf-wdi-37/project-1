@@ -22,26 +22,26 @@ For this project, there are core technical requirements and flex technical requi
 ### Core Technical Requirements
 
 **Your app should have all of the following:**
-* **Express API** - Build an Express server that has both HTML and JSON endpoints. 
-* **RESTful Routes** - Design your CRUD routes using the [RESTful routing](https://github.com/sf-wdi-31/mongoose-associations#restful-routing) convention.
+* **Express API** - Build an Express server that has both HTML and JSON endpoints.
+* **RESTful Routes** - Design your CRUD routes using the [RESTful routing](https://github.com/sf-wdi-34/mongoose-associations#restful-routing) convention.
 * **AJAX** - Leverage AJAX to make requests asynchronously.
 * **jQuery** - Use jQuery to add interactivity and display data on the client side.  
 * **Templating** - Render JSON data on the front end using handlebars templates.  
 * **MongoDB** - Persist at least two resources to a MongoDB database. One resource must have full CRUD.  
 * **Visual Design** - Make your front-end snazzy by adding custom styling. First impressions matter!
 * **Code Style** - Write professional-looking code. Use a consistent style. Consider following the [Airbnb Javascript ES5 Styleguide](https://github.com/airbnb/javascript/tree/es5-deprecated/es5).
-* **Git** - 40+ commits, with a significant number from each teammate. Commit early, commit often. Each commit message should give a clear idea what you changed. (And don't expose any secret keys/tokens on GitHub!) You can reference our [GitHub collaboration workshop](https://github.com/sf-wdi-31/github-collaboration) and the [in-depth GitHub collaboration writeup](https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/github-collaboration-workflow.md).
+* **Git** - 40+ commits, with a significant number from each teammate. Commit early, commit often. Each commit message should give a clear idea what you changed. (And don't expose any secret keys/tokens on GitHub!) You can reference our [GitHub collaboration workshop](https://github.com/sf-wdi-34/github-collaboration) and the [in-depth GitHub collaboration writeup](https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/github-collaboration-workflow.md).
 * **Heroku** - Deploy your app with Heroku.
-* **Documentation** - Write a README that would make an employer excited to hire you. See the [example readme](https://github.com/sf-wdi-31/readme-example) for a suggested structure.
+* **Documentation** - Write a README that would make an employer excited to hire you. See this [example readme](https://github.com/SF-WDI-LABS/readme-example/blob/master/README.md) for a suggested structure.
 
 ### Flex Technical Requirements
 
 **Your app should have 2 of the 5 following features:**
-* **External API** - Use an external API to integrate rich data into your app.  If you need to make API requests from your Node.js server, we recommend using a package like [request](https://github.com/request/request) to make request syntax simpler. 
+* **External API** - Use an external API to integrate rich data into your app.  If you need to make API requests from your Node.js server, we recommend using a package like [request](https://github.com/request/request) to make request syntax simpler.
 * **Data Validation** - On the client side, give users a visible error message if they try to submit blank forms (or other validation failures), explaining why they weren't allowed to submit.  Also, in your database, use mongoose's validations for at least one attribute for each of your schemas (see <a href="http://mongoosejs.com/docs/validation.html">mongoose validation docs</a>). You can meet this requirement with just mongoose's built-in validations, but you could also take it further with custom validations.
 * **Bootstrap** - Use Twitter Bootstrap, Foundation, Skeleton, or another CSS framework throughout your site to create a unified baseline style.
 * **Model Relationship** - Create a one-to-many or many-to-many relationship between two models using either embedded or referenced data.
-* **Sessions** - Research sessions and use them to track a visitor.  As a much larger challenge, you can use sessions to enable authentication (user sign up, log in, and log out).  Note: This option requires significant independent research, and doing authentication  is especially difficult.  There are some [resources from past WDI cohorts](https://github.com/sf-wdi-33/express-simple-auth), but do not underestimate this challenge. 
+* **Sessions** - Research sessions and use them to track a visitor.  As a much larger challenge, you can use sessions to enable authentication (user sign up, log in, and log out).  Note: This option requires significant independent research, and doing authentication  is especially difficult.  There are some [resources from past WDI cohorts](https://github.com/sf-wdi-33/express-simple-auth), but do not underestimate this challenge.
 
 ## BONUS IDEAS  
 If you want to push yourself and learn something new, optionally consider doing some of the following with your app, but *please talk to an instructor* beforehand:
@@ -54,8 +54,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 Now that you know the full requirements for your app, carry out more detailed planning.
 
-**Prepare the following planning deliverables, and meet with an instructor to have your plan approved.** (You may find it helpful to reference the [Software Development Best Practices workshop](https://github.com/sf-wdi-31/software-development-best-practices).)
-
+**Prepare the following planning deliverables, and meet with an instructor to have your plan approved.** (Feel free to read over notes on [Software Development Best Practices](https://github.com/SF-WDI-LABS/software-development-best-practices).)
 *  **Minimal Scope** - Manage complexity. You probably won't have time to build a "spaceship" version of your project idea. Figure out the simplest thing you can build that meets the project requirements, and start with *that* version of your app.  
   ![iterative-design](https://cloud.githubusercontent.com/assets/7833470/11330092/f76e7c50-9159-11e5-875f-748817e41afc.png)
 * **User Stories** - Outline your core user stories. Once you start to build, you'll divide these into clear, smaller steps (sometimes called "development stories").  Make sure you track development stories once you start implementing, not just the broader user stories.
