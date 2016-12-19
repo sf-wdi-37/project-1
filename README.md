@@ -43,7 +43,7 @@ For this project, there are core technical requirements and flex technical requi
 * **Model Relationship** - Create a one-to-many or many-to-many relationship between two models using either embedded or referenced data.
 * **Sessions** - Research sessions and use them to track a visitor.  As a much larger challenge, you can use sessions to enable authentication (user sign up, log in, and log out).  Note: This option requires significant independent research, and doing authentication  is especially difficult.  There are some [resources from past WDI cohorts](https://github.com/sf-wdi-33/express-simple-auth), but do not underestimate this challenge.
 
-<!-- 
+
 ## BONUS IDEAS  
 If you want to push yourself and learn something new, optionally consider doing some of the following with your app, but *please talk to an instructor* beforehand:
 
@@ -67,7 +67,6 @@ Once your project has been approved, one member of your group should create a **
 
 We recommend also setting up a [Trello](https://trello.com) board to track your progress, communicate with each other, and keep focused on the most important goals.
 
--->
 
 ## TEAMWORK EXPECTATIONS
 
@@ -79,10 +78,14 @@ Communicate,communicate, communicate! Discuss roles, expectations, and timetable
 
 > DO NOT START CODING UNTIL YOU HAVE GONE OVER YOUR PROJECT PLAN WITH AN INSTRUCTOR.
 
-* **Tuesday, December 18th** - Groups assigned and initial planning.
+* **Tuesday, December 18th @ 1:15pm** - Groups assigned and initial planning.
 
-<!--
+
 * **BEFORE Wednesday, December 19th @ 12:00pm** - Present your app plan to an instructor to go over your [planning deliverables](#planning-deliverables).
+
+* **Thursday, December 22nd - Friday, December 23rd** - No class session or instructors. GA campus open 10:00am - 4:00pm.
+
+* **Saturday, December 24th - Monday, January 2nd** - No class session or instructors. GA campus closed. 
 
 * **Tuesday, January 3rd** - Final project workshop day.
 
@@ -104,4 +107,3 @@ Each of the criteria above will be evaluated as one of **incomplete**, **does no
 
 
 ###HAPPY CODING :)
--->
