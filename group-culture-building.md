@@ -28,9 +28,9 @@ You're about to start a group project, and discussing group culture beforehand w
 <!-- call out the skills that are prerequisites -->
 *Before this workshop, developers should already be able to:*
 
-* Identify specific strengths and weaknesses in your abilities.
+* Identify specific strengths and weaknesses in your abilities. 
 
-* Communicate 
+* Communicate with a team while working on a technical project. 
 
 ## Self-Reflection
 
