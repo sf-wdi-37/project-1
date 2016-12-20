@@ -46,11 +46,17 @@ Individually, take 5-10 minutes to write down answers to the following questions
 
 1. When you're facing a difficult problem, what support would you like from your teammates?
 
-1. How do you prefer to receive feedback? For example, in email, slack, or in person? Remember feedback should be as specific and actionable as possible. 
+1. How do you prefer to receive feedback? For example, in email, slack, or in person? 
 
 ## Discussion
 
-Share your reflections among your team. Take note of how you can support each other as you build something awesome!
+Share your reflections among your team. 
+
+## Closing Thoughts
+
+Remember feedback should be as specific and actionable as possible. 
+
+Take note of how you can support each other as you build something awesome!
 
 ## Other Resources
 
