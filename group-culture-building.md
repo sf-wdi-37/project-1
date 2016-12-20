@@ -48,9 +48,12 @@ Individually, take 5-10 minutes to write down answers to the following questions
 
 1. How do you prefer to receive feedback? For example, in email, slack, or in person? 
 
+1. Anything else you'd like your teammates to know about how you work with others?
+
 ## Discussion
 
 Share your reflections among your team. 
+
 
 ## Closing Thoughts
 
