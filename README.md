@@ -72,7 +72,7 @@ We recommend also setting up a [Trello](https://trello.com/) board to track your
 
 Every team member shares the responsibility of creating a product that reflects the viewpoints and contributions of each team member. If you're naturally more outgoing and a leader, this will probably mean taking a back seat sometimes or asking for input from quieter teammates. If you're one of those quiet people, make a dedicated effort to speak out more! This will help you create a project that's better than what you would have come up with individually.
 
-Communicate,communicate, communicate! Discuss roles, expectations, and timetables before you start coding. Figure out how you want to communicate about the project when you aren't physically with your team. A few ideas: Trello is a great tool for tracking what you're each working on, and Slack can help you communicate when you're not together.
+Communicate,communicate, communicate! Discuss roles, expectations, and timetables before you start coding. Figure out how you want to communicate about the project when you aren't physically with your team.
 
 ## TIMELINE
 
