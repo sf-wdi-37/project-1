@@ -54,12 +54,23 @@ Individually, take 5-10 minutes to write down answers to the following questions
 
 Share your reflections among your team. 
 
+## Feedback Tips from WDI
+
+- feedback should be clear and specific
+- consider the context your teammates will need
+  - comments may be better for specific code issues
+  - a phone call or in-person talk may be better for addressing workflow issues you need to talk out
+- consider the other person's feelings and communication style - and remember you're on the same team
+- connect your feedback to the project goals
+- give feedback that is actionable and helps others decide what to change or what things to keep doing
+- warn others when tough (but constructive!) feedback is coming so they can take a break first or schedule time later if needed
+- try a feedback sandwich - give some positives, then some constructive feedback, then more positives
+- celebrate teamwork and success! don't forget the positive feedback
 
 ## Closing Thoughts
 
-Remember feedback should be as specific and actionable as possible. 
+Take note of how you can help each other build something awesome! It will be better than what any of you could do alone!
 
-Take note of how you can support each other as you build something awesome!
 
 ## Other Resources
 
