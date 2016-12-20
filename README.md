@@ -65,7 +65,7 @@ Now that you know the full requirements for your app, carry out more detailed pl
 
 Once your project has been approved, one member of your group should create a **GitHub Repo** for your project and [add your partner as a  collaborator](https://help.github.com/articles/adding-collaborators-to-a-personal-repository/).
 
-We recommend also setting up a [Trello](https://trello.com/briannaveenstra/recommend) board to track your progress, communicate with each other, and keep focused on the most important goals.  Here's a [sample trello board](https://trello.com/b/k42peuus/tunely-sample-project-trello).
+We recommend also setting up a [Trello](https://trello.com/) board to track your progress, communicate with each other, and keep focused on the most important goals.  Here's a [sample trello board](https://trello.com/b/k42peuus/tunely-sample-project-trello).
 
 
 ## TEAMWORK EXPECTATIONS
