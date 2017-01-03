@@ -3,7 +3,7 @@
 
 ### Timing
 
-At 9:00AM, be in the room and ready to present your project!
+At 9:30AM, be in the room and ready to present your project!
 
 Your presentation should be 6-8 minutes (2 person teams) or 9-12 minutes (3 person teams).  **Each developer MUST present for an equal time during your presentation.**  There will also be a few minutes of questions and answers after each presentation.
 
