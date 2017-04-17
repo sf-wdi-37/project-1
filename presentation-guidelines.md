@@ -25,7 +25,7 @@ Also, as you're telling us about the demo or snippets, include:
 
 
 ### Presentation Tips
-- Consider what you want to show to your audience; don't "wing it."
+- Set aside some time to consider what you want to show to your audience; don't "wing it."
 
 - Copy your code snippets and explanation into your readme and/or slides.
 
