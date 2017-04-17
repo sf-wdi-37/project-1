@@ -1,6 +1,7 @@
 ## Project Teams
 
 
+<!-- 
 
 ### Team 1
 
@@ -23,13 +24,8 @@
 
 * LD
 * Zach
-			
-### Team 4
 
-* Michael 
-* RJ	
-* Ryan	
-
+-->
 
 
 			
