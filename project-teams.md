@@ -1,7 +1,7 @@
 ## Project Teams
 
 
-<!-- 
+
 
 ### Team 1
 
@@ -21,7 +21,7 @@ Sejin & Will
 
 Julie & Kevin
 
--->
+
 
 
 			
