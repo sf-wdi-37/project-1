@@ -5,25 +5,21 @@
 
 ### Team 1
 
-* Alex
-* Greice
+Addy & Jane
 
 ### Team 2
 
-* Aaron
-* Ricardo
 
+Mahmoud & Michael
 
 ### Team 3
 
-* Amber
-* Shiv
+Sejin & Will
 
 
 ### Team 4
 
-* LD
-* Zach
+Julie & Kevin
 
 -->
 
