@@ -26,11 +26,10 @@ For this project, there are core technical requirements and flex technical requi
 * **RESTful Routes** - Design your CRUD routes using the [RESTful routing](https://github.com/sf-wdi-34/mongoose-associations#restful-routing) convention.
 * **AJAX** - Leverage AJAX to make requests asynchronously.
 * **jQuery** - Use jQuery to add interactivity and display data on the client side.  
-* **Templating** - Render JSON data on the front end using handlebars templates.  
 * **MongoDB** - Persist at least two resources to a MongoDB database. One resource must have full CRUD.  
 * **Visual Design** - Make your front-end snazzy by adding custom styling. First impressions matter!
 * **Code Style** - Write professional-looking code. Use a consistent style. Consider following the [Airbnb Javascript ES5 Styleguide](https://github.com/airbnb/javascript/tree/es5-deprecated/es5).
-* **Git** - 40+ commits, with a significant number from each teammate. Commit early, commit often. Each commit message should give a clear idea what you changed. (And don't expose any secret keys/tokens on GitHub!) You can reference our [GitHub collaboration workshop](https://github.com/sf-wdi-34/github-collaboration) and the [in-depth GitHub collaboration writeup](https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/github-collaboration-workflow.md).
+* **Git** - 40+ commits, with a significant number from each teammate. Commit early, and commit often. Each commit message should give a clear idea what you changed. (And don't expose any secret keys/tokens on GitHub!) You can reference our [GitHub collaboration workshop](https://github.com/sf-wdi-34/github-collaboration) and the [in-depth GitHub collaboration writeup](https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/github-collaboration-workflow.md).
 * **Heroku** - Deploy your app with Heroku.
 * **Documentation** - Write a README that would make an employer excited to hire you. See this [example readme](https://github.com/SF-WDI-LABS/readme-example/blob/master/README.md) for a suggested structure.
 
@@ -39,7 +38,7 @@ For this project, there are core technical requirements and flex technical requi
 **Your app should have 2 of the 5 following features:**
 * **External API** - Use an external API to integrate rich data into your app.  If you need to make API requests from your Node.js server, we recommend using a package like [request](https://github.com/request/request) to make request syntax simpler.
 * **Data Validation** - On the client side, give users a visible error message if they try to submit blank forms (or other validation failures), explaining why they weren't allowed to submit.  Also, in your database, use mongoose's validations for at least one attribute for each of your schemas (see <a href="http://mongoosejs.com/docs/validation.html">mongoose validation docs</a>). You can meet this requirement with just mongoose's built-in validations, but you could also take it further with custom validations.
-* **Bootstrap** - Use Twitter Bootstrap, Foundation, Skeleton, or another CSS framework throughout your site to create a unified baseline style.
+* **CSS Grid Library** - Use Materialize, Twitter Bootstrap, Foundation, Skeleton, or another CSS framework throughout your site to create a unified baseline style.
 * **Model Relationship** - Create a one-to-many or many-to-many relationship between two models using either embedded or referenced data.
 * **Sessions** - Research sessions and use them to track a visitor.  As a much larger challenge, you can use sessions to enable authentication (user sign up, log in, and log out).  Note: This option requires significant independent research, and doing authentication  is especially difficult.  There are some resources from past WDI cohorts: [33](https://github.com/sf-wdi-33/express-simple-auth), [24](https://github.com/sf-wdi-24/express-microblog/tree/solution-auth), but do not underestimate this challenge.
 
@@ -50,6 +49,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 * **More Models or Relationships** - Add another model to your project or create a new relationship.
 * **Model Methods** - Level up your models by adding a method to one of your schemas.  For example, a person schema with `firstName` and `lastName` can have a `fullName` method (see mongoose docs on [instance methods](http://mongoosejs.com/docs/guide.html#methods) and [static methods](http://mongoosejs.com/docs/guide.html#statics)).
 * **Sass** - Use a CSS pre-compiler to write more imperative CSS.
+<!-- * **WebSockets** - Break out of the request/response cycle and use websockets to send realtime updates to the client(s) when the server changes. -->
 
 ## PLANNING DELIVERABLES
 
@@ -70,7 +70,7 @@ We recommend also setting up a [Trello](https://trello.com/) board to track your
 
 ## TEAMWORK EXPECTATIONS
 
-Every team member shares the responsibility of creating a product that reflects the viewpoints and contributions of each team member. If you're naturally more outgoing and a leader, this will probably mean taking a back seat sometimes or asking for input from quieter teammates. If you're one of those quiet people, make a dedicated effort to speak out more! This will help you create a project that's better than what you would have come up with individually.
+Every team member shares the responsibility of creating a product that reflects the viewpoints and contributions of each team member. If you're already more outgoing or vocal about your ideas, this will probably mean taking a back seat sometimes or asking for input from quieter teammates. If you're one of those quiet people, make a dedicated effort to speak out more! This will help you create a project that's better than what you would have come up with individually.
 
 Communicate,communicate, communicate! Discuss roles, expectations, and timetables before you start coding. Figure out how you want to communicate about the project when you aren't physically with your team.
 
@@ -78,20 +78,18 @@ Communicate,communicate, communicate! Discuss roles, expectations, and timetable
 
 > DO NOT START CODING UNTIL YOU HAVE GONE OVER YOUR PROJECT PLAN WITH AN INSTRUCTOR.
 
-* **Tuesday, December 18th @ 1:15pm** - Groups assigned and initial planning.
+
+* **Monday, December 17th @ 3:00pm** - Groups assigned and initial planning.
+
+* **EVERY DAY during project week @ 9:15am** - Technical interview preparation.
+
+* **BEFORE Tuesday, December 18th @ 12:30pm** - Present your app plan to an instructor to go over your [planning deliverables](#planning-deliverables).
+
+* **Friday, April 21st @ 3:00pm** - Project due and presentations!
 
 
-* **BEFORE Wednesday, December 19th @ 12:00pm** - Present your app plan to an instructor to go over your [planning deliverables](#planning-deliverables).
 
-* **Thursday, December 22nd - Friday, December 23rd** - No class session or instructors. GA campus open 10:00am - 4:00pm.
-
-* **Saturday, December 24th - Monday, January 2nd** - No class session or instructors. GA campus closed. 
-
-* **Tuesday, January 3rd** - Final project workshop day.
-
-* **Wednesday, January 4th @ 9:00am** - Project due and presentations!
-
-In addition, we suggest you have a feature freeze sometime on Tuesday, January 3rd - meaning no new features! After a feature freeze, you can focus on re-deploying your code to Heroku, polishing existing features, finalizing your README.md, and planning your presentation.
+In addition, we suggest you have a feature freeze by 9:00am on Friday, April 21st - meaning no new features! After a feature freeze, you can focus on re-deploying your code to Heroku, polishing existing features, finalizing your README.md, and planning your presentation.
 
 ## FEEDBACK
 
@@ -106,4 +104,4 @@ In addition, we suggest you have a feature freeze sometime on Tuesday, January 3
 Each of the criteria above will be evaluated as one of **incomplete**, **does not meet expectations**, **meets expectations**, or **exceeds expectations**. You'll be receiving written feedback from your instructors.
 
 
-###HAPPY CODING :)
+### HAPPY CODING :)
