@@ -3,9 +3,9 @@
 
 ### Timing
 
-At 9:30AM, be in the room and ready to present your project!
+At the time presentations are scheduled to begin, be in the room and ready to present your project!
 
-Your presentation should be 6-8 minutes (2 person teams) or 9-12 minutes (3 person teams).  **Each developer MUST present for an equal time during your presentation.**  There will also be a few minutes of questions and answers after each presentation.
+Your presentation should be 8-10 minutes (2 person teams).  **Each developer MUST present for an equal time during your presentation.**  There will also be a few minutes of questions and answers after each presentation.
 
 
 ### Content
@@ -25,6 +25,7 @@ Also, as you're telling us about the demo or snippets, include:
 
 
 ### Presentation Tips
+- Consider what you want to show to your audience; don't "wing it."
 
 - Copy your code snippets and explanation into your readme and/or slides.
 
@@ -32,4 +33,4 @@ Also, as you're telling us about the demo or snippets, include:
 
 - If showing your text editor, zoom in on your text editor or set font size to at least 20px.
 
-- Speak up!
+- Speak loudly enough so the people in the back of the room can hear you!
