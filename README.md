@@ -79,11 +79,11 @@ Communicate,communicate, communicate! Discuss roles, expectations, and timetable
 > DO NOT START CODING UNTIL YOU HAVE GONE OVER YOUR PROJECT PLAN WITH AN INSTRUCTOR.
 
 
-* **Monday, December 17th @ 3:00pm** - Groups assigned and initial planning.
+* **Monday, April 17th @ 3:00pm** - Groups assigned and initial planning.
 
 * **EVERY DAY during project week @ 9:15am** - Technical interview preparation.
 
-* **BEFORE Tuesday, December 18th @ 12:30pm** - Present your app plan to an instructor to go over your [planning deliverables](#planning-deliverables).
+* **BEFORE Tuesday, April 18th @ 12:30pm** - Present your app plan to an instructor to go over your [planning deliverables](#planning-deliverables).
 
 * **Friday, April 21st @ 3:00pm** - Project due and presentations!
 
