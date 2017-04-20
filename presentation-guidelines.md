@@ -1,4 +1,4 @@
-# WDI 34 Project 1 Presentation Guidelines
+# WDI 37 Project 1 Presentation Guidelines
 
 
 ### Timing
@@ -24,13 +24,20 @@ Also, as you're telling us about the demo or snippets, include:
 
 
 
-### Presentation Tips
-- Set aside some time to consider what you want to show to your audience; don't "wing it."
+### Presentation Requirements
 
-- Copy your code snippets and explanation into your readme and/or slides.
+- Set aside time to consider what you want to show to your audience; don't "wing it."
+
+- Have the windows and files that you want to show off open before you start your presentation. Also, close other windows that might be distracting during your presentation.
+
+- Copy your code snippets and explanation into your readme.
+
+### Presentation Tips
 
 - Zoom your browser window to 150%.
 
 - If showing your text editor, zoom in on your text editor or set font size to at least 20px.
 
 - Speak loudly enough so the people in the back of the room can hear you!
+
+- Have fun!
